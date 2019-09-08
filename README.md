@@ -1,2 +1,2 @@
 # Python-Directions-App
-Run the gui with a ide such as IDLE.
+Run the gui with an ide such as IDLE.
